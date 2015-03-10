@@ -1,0 +1,64 @@
+body{margin:0; font-family: 'Open Sans', sans-serif;
+height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  }
+/*.container{
+  height: 1240px;
+  width: 868px;
+  background-image:url(FractalLandscape.jpg);
+  background-position:bottom;
+*/
+}
+.header-up{
+	width: 100%;
+}
+.container1{
+	width: 575px;
+	height: 410px;
+	float: left;
+}
+h2{
+	width: 62%;
+	height: 20%;
+	margin: 90px 180px 50px 175px;
+	font-size: 22px;
+
+}
+h1{
+	width: 70%;
+	height: 50%;
+	margin: 30px 182px;
+	font-size: 48px;
+}
+h3{
+	width: 62%;
+	height: 50%;
+	margin: 25px 180px;
+	font-size: 17px;
+	text-align: justify;
+}
+h4{
+	width: 62%;
+	height: 50%;
+	margin: 10px 180px;
+	font-size: 13px;
+	
+}
+.container2{
+	float: left;
+	width: 242px;
+	height: 413px; 
+}
+img{
+	margin: 90px 180px 50px 15px;
+
+}
+.formulario{
+	height: 311px;
+	width:  240px;
+	margin-left: 65px;
+}
+.tipos-iden{
+	margin: -5px 170px 25px 0px
+}
